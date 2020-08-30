@@ -1,0 +1,5 @@
+requests==2.24.0
+plotly==4.8.1
+pandas==1.0.5
+pycountry_convert==0.7.2
+streamlit==0.61.0
